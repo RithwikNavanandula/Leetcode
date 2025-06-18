@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0904-leaf-similar-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0904-leaf-similar-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0904-leaf-similar-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
