@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Array
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Greedy
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
