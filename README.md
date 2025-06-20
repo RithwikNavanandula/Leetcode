@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
