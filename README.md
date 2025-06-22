@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/RithwikNavanandula/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/RithwikNavanandula/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/RithwikNavanandula/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/RithwikNavanandula/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/RithwikNavanandula/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/3189-find-champion-ii) |
 ## String
 |  |
