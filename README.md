@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Simulation
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Topological Sort
 |  |
