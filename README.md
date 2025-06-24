@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RithwikNavanandula/Leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/RithwikNavanandula/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0904-leaf-similar-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RithwikNavanandula/Leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/RithwikNavanandula/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RithwikNavanandula/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RithwikNavanandula/Leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/RithwikNavanandula/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/RithwikNavanandula/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RithwikNavanandula/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/3189-find-champion-ii) |
 ## String
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/RithwikNavanandula/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
