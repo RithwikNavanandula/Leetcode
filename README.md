@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/RithwikNavanandula/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/RithwikNavanandula/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Hash Table
 |  |
