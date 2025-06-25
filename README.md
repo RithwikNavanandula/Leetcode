@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/RithwikNavanandula/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithwikNavanandula/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
