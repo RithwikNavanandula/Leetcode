@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/RithwikNavanandula/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/RithwikNavanandula/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RithwikNavanandula/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithwikNavanandula/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
