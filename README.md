@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0119-pascals-triangle-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0661-image-smoother](https://github.com/RithwikNavanandula/Leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/RithwikNavanandula/Leetcode/tree/master/0724-find-pivot-index) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithwikNavanandula/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
