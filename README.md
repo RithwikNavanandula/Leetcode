@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/RithwikNavanandula/Leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/RithwikNavanandula/Leetcode/tree/master/1619-path-crossing) |
+| [1714-rearrange-spaces-between-words](https://github.com/RithwikNavanandula/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2580-circular-sentence](https://github.com/RithwikNavanandula/Leetcode/tree/master/2580-circular-sentence) |
