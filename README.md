@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/RithwikNavanandula/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/RithwikNavanandula/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/RithwikNavanandula/Leetcode/tree/master/1547-destination-city) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RithwikNavanandula/Leetcode/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Math
 |  |
 | ------- |
