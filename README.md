@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/RithwikNavanandula/Leetcode/tree/master/1547-destination-city) |
+| [1619-path-crossing](https://github.com/RithwikNavanandula/Leetcode/tree/master/1619-path-crossing) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2580-circular-sentence](https://github.com/RithwikNavanandula/Leetcode/tree/master/2580-circular-sentence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/RithwikNavanandula/Leetcode/tree/master/1547-destination-city) |
+| [1619-path-crossing](https://github.com/RithwikNavanandula/Leetcode/tree/master/1619-path-crossing) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Topological Sort
 |  |
