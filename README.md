@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/RithwikNavanandula/Leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/RithwikNavanandula/Leetcode/tree/master/1619-path-crossing) |
 | [1714-rearrange-spaces-between-words](https://github.com/RithwikNavanandula/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/RithwikNavanandula/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RithwikNavanandula/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/RithwikNavanandula/Leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/RithwikNavanandula/Leetcode/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/RithwikNavanandula/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RithwikNavanandula/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
