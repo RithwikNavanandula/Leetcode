@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0119-pascals-triangle-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RithwikNavanandula/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/RithwikNavanandula/Leetcode/tree/master/1252-break-a-palindrome) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0898-transpose-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/RithwikNavanandula/Leetcode/tree/master/1642-water-bottles) |
