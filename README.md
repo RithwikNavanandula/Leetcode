@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/RithwikNavanandula/Leetcode/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/RithwikNavanandula/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/RithwikNavanandula/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
