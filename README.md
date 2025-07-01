@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0119-pascals-triangle-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0263-ugly-number) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RithwikNavanandula/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -252,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
