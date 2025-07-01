@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RithwikNavanandula/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/RithwikNavanandula/Leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/RithwikNavanandula/Leetcode/tree/master/0724-find-pivot-index) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RithwikNavanandula/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RithwikNavanandula/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/RithwikNavanandula/Leetcode/tree/master/1642-water-bottles) |
@@ -236,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RithwikNavanandula/Leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
