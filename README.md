@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2580-circular-sentence](https://github.com/RithwikNavanandula/Leetcode/tree/master/2580-circular-sentence) |
+| [3617-find-the-original-typed-string-i](https://github.com/RithwikNavanandula/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
 | ------- |
