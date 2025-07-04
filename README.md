@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/RithwikNavanandula/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/RithwikNavanandula/Leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/RithwikNavanandula/Leetcode/tree/master/0724-find-pivot-index) |
