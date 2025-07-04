@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/RithwikNavanandula/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RithwikNavanandula/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RithwikNavanandula/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RithwikNavanandula/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0229-majority-element-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/RithwikNavanandula/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/RithwikNavanandula/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RithwikNavanandula/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RithwikNavanandula/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
