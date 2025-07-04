@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0119-pascals-triangle-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RithwikNavanandula/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RithwikNavanandula/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
