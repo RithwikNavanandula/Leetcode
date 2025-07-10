@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0975-range-sum-of-bst](https://github.com/RithwikNavanandula/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RithwikNavanandula/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0946-smallest-range-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RithwikNavanandula/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RithwikNavanandula/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
