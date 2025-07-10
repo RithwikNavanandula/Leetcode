@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0946-smallest-range-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1396-count-servers-that-communicate](https://github.com/RithwikNavanandula/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RithwikNavanandula/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0045-jump-game-ii) |
+| [0946-smallest-range-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1252-break-a-palindrome](https://github.com/RithwikNavanandula/Leetcode/tree/master/1252-break-a-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RithwikNavanandula/Leetcode/tree/master/0645-set-mismatch) |
+| [0946-smallest-range-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0946-smallest-range-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RithwikNavanandula/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RithwikNavanandula/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RithwikNavanandula/Leetcode/tree/master/0268-missing-number) |
 | [0870-magic-squares-in-grid](https://github.com/RithwikNavanandula/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0946-smallest-range-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RithwikNavanandula/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/RithwikNavanandula/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/RithwikNavanandula/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
