@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RithwikNavanandula/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RithwikNavanandula/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/RithwikNavanandula/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2857-total-distance-traveled](https://github.com/RithwikNavanandula/Leetcode/tree/master/2857-total-distance-traveled) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RithwikNavanandula/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RithwikNavanandula/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2857-total-distance-traveled](https://github.com/RithwikNavanandula/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RithwikNavanandula/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/RithwikNavanandula/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RithwikNavanandula/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
