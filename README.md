@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/RithwikNavanandula/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/RithwikNavanandula/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/RithwikNavanandula/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/RithwikNavanandula/Leetcode/tree/master/0812-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/RithwikNavanandula/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RithwikNavanandula/Leetcode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/RithwikNavanandula/Leetcode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/RithwikNavanandula/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
