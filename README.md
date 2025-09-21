@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/RithwikNavanandula/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/RithwikNavanandula/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0068-text-justification](https://github.com/RithwikNavanandula/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/RithwikNavanandula/Leetcode/tree/master/0071-simplify-path) |
